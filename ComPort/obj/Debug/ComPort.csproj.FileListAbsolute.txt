@@ -1,0 +1,11 @@
+D:\projects\cSharp\ComPort\ComPort\bin\Debug\ComPort.exe.config
+D:\projects\cSharp\ComPort\ComPort\bin\Debug\ComPort.exe
+D:\projects\cSharp\ComPort\ComPort\bin\Debug\ComPort.pdb
+D:\projects\cSharp\ComPort\ComPort\obj\Debug\ComPort.csproj.AssemblyReference.cache
+D:\projects\cSharp\ComPort\ComPort\obj\Debug\ComPort.csproj.SuggestedBindingRedirects.cache
+D:\projects\cSharp\ComPort\ComPort\obj\Debug\ComPort.Form1.resources
+D:\projects\cSharp\ComPort\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+D:\projects\cSharp\ComPort\ComPort\obj\Debug\ComPort.csproj.GenerateResource.cache
+D:\projects\cSharp\ComPort\ComPort\obj\Debug\ComPort.csproj.CoreCompileInputs.cache
+D:\projects\cSharp\ComPort\ComPort\obj\Debug\ComPort.exe
+D:\projects\cSharp\ComPort\ComPort\obj\Debug\ComPort.pdb
